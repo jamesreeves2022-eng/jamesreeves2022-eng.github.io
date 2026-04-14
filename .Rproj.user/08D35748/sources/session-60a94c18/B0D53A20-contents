@@ -2,10 +2,4 @@
 title: "site"
 ---
 
-This is a Quarto website.
-
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
-
-```{r}
-1 + 1
-```
+This page will contain my Math 437 final project.
