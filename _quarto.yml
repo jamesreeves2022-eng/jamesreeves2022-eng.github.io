@@ -1,6 +1,9 @@
 project:
   type: website
   output-dir: docs
+  render:
+    - index.qmd
+    - math-437-project-template.qmd
 
 website:
   title: "site"
